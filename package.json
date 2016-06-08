@@ -1,0 +1,35 @@
+{
+  "name": "random-split",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Generate a random boolean split using a number input",
+  "license": "MIT",
+  "repository": "bendrucker/random-split",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "random",
+    "split",
+    "integer"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "assert-equal": "~1.0.0",
+    "assert-ok": "~1.0.0",
+    "number-is-integer": "~1.0.0"
+  }
+}

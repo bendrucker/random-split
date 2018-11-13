@@ -1,4 +1,4 @@
-# random-split [![Build Status](https://travis-ci.org/bendrucker/random-split.svg?branch=master)](https://travis-ci.org/bendrucker/random-split)
+# random-split [![Build Status](https://travis-ci.org/bendrucker/random-split.svg?branch=master)](https://travis-ci.org/bendrucker/random-split) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/random-split.svg)](https://greenkeeper.io/)
 
 > Generate a random boolean split using a number input
 
